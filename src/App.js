@@ -3,7 +3,7 @@ import { useState,useEffect } from 'react';
 import React from 'react';
 import SearchIcon from './search.svg'
 import MovieCard from './components/MovieCard';
-const API_URL = 'http://www.omdbapi.com?apikey=a4b7f6f1';
+const API_URL = 'http://www.omdbapi.com?apikey=d090b82a';
 
 // const movie1 = {
 //   Poster: "https://m.media-amazon.com/images/M/MV5BYjFhN2RjZTctMzA2Ni00NzE2LWJmYjMtNDAyYTllOTkyMmY3XkEyXkFqcGdeQXVyNTA0OTU0OTQ@._V1_SX300.jpg",
